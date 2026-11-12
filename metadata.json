@@ -1,0 +1,6 @@
+{
+  "name": "Image to PDF Converter",
+  "description": "Convert images to PDF with manual reordering, paste support, and orientation controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
